@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+# Deployed Link - https://main--curious-sorbet-2359be.netlify.app/
+
 In the project directory, you can run:
 
 ### `npm start`
